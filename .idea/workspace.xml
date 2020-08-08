@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="140d01fa-bab5-4f3c-ad54-76003cfbbb99" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Maven\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fAcfSzavVAB9E5BOGGl5fuRWXI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/webroot/images" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\BaiduNetdiskDownload\一站式学习Java网络编程 全面理解BIONIOAIO\webserver-tutorial\webroot\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProcessorTest.givenServletRequest_thenLoadServlet">
+    <configuration name="Bootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bootstrap" />
+      <module name="webserver-tutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestClient" />
+      <module name="webserver-tutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessorTest.givenServletRequest_thenLoadServlet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webserver-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="processor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="processor" />
+      <option name="MAIN_CLASS_NAME" value="processor.ProcessorTest" />
+      <option name="METHOD_NAME" value="givenServletRequest_thenLoadServlet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webserver-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="connector.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="connector" />
+      <option name="MAIN_CLASS_NAME" value="connector.RequestTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProcessorTest.givenServletRequest_thenLoadServlet" />
+        <item itemvalue="Application.Bootstrap" />
+        <item itemvalue="Application.TestClient" />
+        <item itemvalue="JUnit.RequestTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="140d01fa-bab5-4f3c-ad54-76003cfbbb99" name="Default Changelist" comment="" />
+      <created>1595664440195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595664440195</updated>
+      <workItem from="1595664441311" duration="16000" />
+      <workItem from="1596867193430" duration="6405000" />
+      <workItem from="1596876132878" duration="1787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1869" height="267" key="GridCell.Tab.0.bottom" timestamp="1596877620211">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596877620211" />
+    <state width="1869" height="267" key="GridCell.Tab.0.center" timestamp="1596877620211">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="267" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596877620211" />
+    <state width="1869" height="267" key="GridCell.Tab.0.left" timestamp="1596877620211">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="267" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596877620211" />
+    <state width="1869" height="267" key="GridCell.Tab.0.right" timestamp="1596877620211">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="267" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596877620211" />
+    <state x="629" y="391" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1596872120713">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="629" y="391" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1596872120713" />
+  </component>
+</project>
